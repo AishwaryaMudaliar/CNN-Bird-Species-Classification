@@ -1,0 +1,3 @@
+# CNN-Bird-Species-Classification
+In this Deep Neural Network project, we will be training a ResNet-n (n=9) neural networks architecture with a different layers to classify a diverse set of 250 Bird Species from the Kaggle dataset with over 95% accuracy. For this project, I used the 250 Birds Species Dataset, which consists of 250 bird species. 35215 training images, 1250 test images(5 per species) and 12500 validation images(5 per species. All images are 224 X 224 X 3 color images in jpg format. 
+Also includes a “consolidated” image set that combines the training, test and validation images into a single data set.
